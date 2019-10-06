@@ -132,4 +132,22 @@
       <Name>VietFood</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bunbohue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bunbohue%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bunbohue%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pho%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pho%403x.png" />
+  </ItemGroup>
 </Project>
